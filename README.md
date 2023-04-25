@@ -1,7 +1,6 @@
 ## 🚀 INFO
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgin0527)](https://solved.ac/mgin0527/)
-
-![m0jinaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0jinaa&show_icons=true&theme=highcontrast)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0jinaa&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgin0527)](https://solved.ac/mgin0527/)![mazandi profile](http://mazandi.herokuapp.com/api?handle=mgin0527&theme=cold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0jinaa&layout=compact&theme=vue)
 
 ## 📚 STACKS
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
